@@ -1,5 +1,7 @@
 # kaggle-home-credit
 
+Current team: Ephraim Sutherland, Vinicious Canto Costa
+
 For the [kaggle home-data competition](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview)
 
 ## Download Data
