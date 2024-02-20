@@ -15,3 +15,5 @@ To create the environment locally, run
 ```
 mamba env create -f environment.yml
 ```
+
+Project planning (access restricted) is on [google drive](https://drive.google.com/drive/folders/1ZawuVI6-AXO6S3AD60sEfah5AmWm0h9S)
